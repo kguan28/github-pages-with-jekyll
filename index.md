@@ -11,4 +11,6 @@
    -Worked for the Sommerset County Park Commission as a tennis instructor over the summer of 2019<br>
    -Working for the Student Leadership Committee as the public relations chair<br>
    -NJ Seal of Biliteracy in English and German<br>
-
+   </body>
+   </html>
+   
